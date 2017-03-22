@@ -1,0 +1,5 @@
+build
+envConfig.js
+node_modules
+yarn.lock
+*.log
